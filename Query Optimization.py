@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #### Student Name: Mai Ngo
-# #### Course Name and Number: DSC 450 Database Processing for Large-Scale Analytics
-# #### Assignment 9
-# #### Date: 7/13/2023
-
 # ### Part 1
 
 # In[1]:
